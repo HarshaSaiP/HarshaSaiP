@@ -7,17 +7,18 @@
 🌱 Currently Learning:
 - MERN Stack
 - Django
+- .NET
 - DevOps & Cloud Technologies
 
 🛠️ Tech Stack
-- Languages: Java, C, C++, Python, JavaScript
+- Languages: Java, C, C++, Python, JavaScript, C#
 - Frontend: React, HTML, CSS
 - Backend: Node.js, Django
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Docker, Linux
 
 🚀 Projects
-- EZPlace
+- Library Management System(.NET)
 - Learnix
 - EduWork
 - Various Web Development & Java Projects
