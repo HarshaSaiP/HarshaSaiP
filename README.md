@@ -13,7 +13,7 @@
 🛠️ Tech Stack
 - Languages: Java, C, C++, Python, JavaScript, C#
 - Frontend: React, HTML, CSS
-- Backend: Node.js, Django
+- Backend: Node.js, Django, .NET
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Git, Docker, Linux
 
